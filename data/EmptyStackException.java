@@ -1,4 +1,8 @@
-
+/**
+*
+*   Custom EmptyStackException implementation
+*
+*/
 public class EmptyStackException extends Exception {
     public EmptyStackException() {}
 
